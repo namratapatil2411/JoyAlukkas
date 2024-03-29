@@ -1,0 +1,308 @@
+h2,span{
+    font-family: "Cormorant", serif;
+}
+p{
+    font-family: "Roboto", sans-serif;
+}
+#CATEGORY p{
+    font-family: "Cormorant", serif;
+}
+
+
+.search{
+    position: relative;
+    padding-right: 70px;
+}
+.search1{
+    position: absolute;
+    right: 100px;
+    top: 10px;
+    font-size: 25px;
+    color: #c92A42;
+}
+
+
+
+.banner{
+    width: 600px;
+    height: 400px;
+   
+}
+
+.carousel-inner{
+    position: relative;
+}
+ .slider{
+     position: absolute; 
+    left: 60%;
+    top: 60px;
+} 
+.slider h2{
+    font-size: 72px;
+}
+.slider em{
+    font-size: 24px;
+    color: #2D142C;
+}
+.slider button,.about1 button,.diamond3 button,.smile1 button,.radiant1 button,.future1 button{
+    border-color: #c92A42;
+    color: #c92A42;
+}
+.progress{
+    height: 5px;
+}
+.progress-bar{
+    background-color: #c92A42;
+}
+
+#about,#brand{
+    background-color: rgb(255, 248, 244);
+}
+.about1 span,.smile1 span,.culture2 span{
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+.about1 h2,.smile h2,.culture2 h2,.radiant1 h2{
+    font-size: 40px;
+    letter-spacing: 3px;
+}
+.about1 p,.smile p,.culture2{
+    font-size: 16px;
+}
+.about1{
+    padding: 0 40px;
+}
+
+
+.diamond1{
+    padding: 0 50px;
+    top: 60%;
+    font-size: 20px;
+    color: #fff;
+}
+.dia h3{
+    font-size: 5vw;
+    letter-spacing: 6.6px;
+}
+.dia span{
+    font-size: 3.25vw;
+}
+.dia1 h3{
+    font-size: 40px;
+   
+}
+
+.store1 p, #future span{
+    font-size: 30px;
+    letter-spacing: 4px;
+}
+.future1 h2{
+    font-size: 60px;
+    letter-spacing: 6px;
+}
+
+.braclate{
+    height: 400px;
+    width: 400px;
+}
+
+
+#stories{
+    background-image: url(../Images/Background/store.jpg);
+     background-size:cover;
+    height: 600px;
+    background-position: right top; 
+    
+}
+
+
+.radiant1 p{
+    line-height: 10px;
+    font-size: 12px;
+}
+.radiant1{
+    padding: 0 50px;
+}
+ /* .radiant2{
+    position: relative;
+} */
+/* .radiant3{
+    position: absolute;
+     left: 35%;
+    z-index: 1;
+     bottom: 1px;
+}  */
+ 
+.future2 p{
+    font-size: 17px;
+    letter-spacing: 0px;
+}
+.future1{
+    padding: 0 40px;
+}
+
+ .card-img-overlay{
+    top: 80%;
+ }
+ .culture4 h4{
+    color: #c92A42;
+ }
+
+ #Identity p,#CATEGORY p{
+    font-size: 30px;
+    letter-spacing: 4px;
+ }
+ #Identity h2,#CATEGORY h2{
+    font-size: 45px;
+    letter-spacing: 6px;
+ }
+ #brand{
+    padding: 70px 50px;
+    display: none;
+ }
+
+ #footer{
+    background-color: rgb(192, 140, 53)
+ }
+ .foot{
+    height: 40px;
+ }
+
+
+.friends{
+    height: 600px;
+    width: 700px;
+}
+
+.d1{
+    height: 250px;
+    margin-top: 20px;
+}
+.d2{
+    height: 250px;
+    margin-top: 20px;
+}
+@media only screen and (min-width:768px){
+
+
+#footer{
+    background-color: rgb(192, 140, 53)
+ }
+ .foot{
+    height: 40px;
+ }
+
+ .banner{
+    width: 600px;
+    height: 600px;
+   
+}
+.about1 span,.smile1 span,.culture2 span{
+    font-size: 45pxpx;
+    letter-spacing: 3px;
+}
+.about1 h2,.smile1 h2,.store1 h2,.radiant1 h2{
+    font-size: 72px;
+    letter-spacing: 3px;
+}
+.about1 p,.smile1 p{
+    font-size: 18px;
+}
+.culture1 img{
+    height: 500px;
+}
+.store1 p{
+    font-size: 45px;
+}
+#Identity p,#CATEGORY p{
+    font-size: 50px;
+    letter-spacing: 4px;
+ }
+ #Identity h2,#CATEGORY h2,.smile1 h2{
+    font-size: 65px;
+    letter-spacing: 6px;
+ }
+ .smile1 span{
+    font-size: 50px;
+ }
+ .braclate{
+    display: none;
+ }
+ .radiant1 p{
+    line-height: 20px;
+    font-size: 20px;
+}
+
+#brand{
+    padding: 70px 50px;
+    display: none;
+ }
+ .diamond3{
+    display: none;
+ }
+ .d1{
+    height: 180px;
+    margin-top: 20px;
+}
+.d2{
+    height: 180px;
+    margin-top: 20px;
+}
+}
+@media only screen and (min-width:1200px){
+    #brand{
+        padding: 70px 50px;
+        display: block;
+     }
+     .shilpa{
+        height: 100px;
+        
+    }
+    .stories1{
+        background-color:#550A35;
+        margin: 50px 150px;
+        padding: 40px 0px;
+        
+    }
+    .stories1 p{
+        padding: 0 40px;
+    }
+     .store{
+     position: relative;
+    }
+    .shilpa{
+        position: absolute;
+        bottom: 80%;
+        left:320px;
+    }
+    .store1{
+        padding-left: 200px;
+    }
+    .diamond3{
+        display: block;
+     }
+     .braclate{
+        display: block;
+     }
+     .culture2 h2{
+        font-size: 72px;
+        letter-spacing: 3px;
+     }
+     .culture2 p{
+        font-size: 18px;
+     }
+     .culture1 img{
+        height: 600px;
+    }
+    #Identity p,#CATEGORY p{
+        font-size: 63px;
+        letter-spacing: 4px;
+     }
+     #Identity h2,#CATEGORY h2,.smile1 h2{
+        font-size: 75px;
+        letter-spacing: 6px;
+     }
+   
+   
+}
+

@@ -1,0 +1,117 @@
+.search{
+    position: relative;
+    padding-right: 70px;
+}
+.search1{
+    position: absolute;
+    right: 100px;
+    top: 10px;
+    font-size: 25px;
+    color: #c92A42;
+}
+
+
+.kajol1,#bride,.karnataka1,.andhra1,  .pegination1{
+    background-color: rgb(255, 248, 244);
+}
+ .kajol1 ,.karnataka1,.kerala2,.andhra1{
+    padding: 30px 0px;
+} 
+.tamil1 button,.karnataka1 button,.kerala1 button,.andhra1 button{
+    background-color: #c92a42;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 100px;
+    text-align: center;
+    border: none;
+}
+#tamil{
+    margin-top: 50px;
+}
+
+#bride{
+    padding: 0 50px;
+}
+#footer{
+    background-color: rgb(192, 140, 53)
+ }
+ .foot{
+    height: 40px;
+ }
+
+@media only screen and (min-width:768px){
+    
+    .kajol2 img{
+        height: 500px;
+    }
+    .tamil1 h2,.karnataka1 h2,.kerala1 h2,.andhra1 h2,#bride h2{
+        font-size: 65px;
+    }
+    .tamil1 h4,.karnataka1 h4,.kerala1 h4,.andhra1 h4,#bride span{
+        font-size: 30px;
+    }
+    .tamil1 p,.karnataka1 p,.kerala1 p,.andhra1 p,#bride p{
+        font-size: 15px;
+
+    }
+    .tamil1 button,.karnataka1 button{
+        background-color: #c92a42;
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: bold;
+        color: #fff;
+        border-radius: 100px;
+        text-align: center;
+        border: none;
+    }
+    #bride button{
+        color: #c92a42;
+        border-color: #c92a42;
+    }
+    #tamil{
+        margin-top: 0px;
+    }
+    /* #karnataka{
+        padding-top: 50px;
+    } */
+
+    .pegination1{
+        padding: 0 250px;
+    }
+   
+   
+}
+
+@media only screen and (min-width:1200px){
+    .kajol2 img{
+        height: 745px;
+    }
+    .kajol1,.karnataka1,.kerala1,.andhra1{
+        padding: 200px 50px;
+    }
+    .tamil1 h2,.karnataka1 h2,.kerala1 h2,.andhra1 h2,#bride h2{
+        font-size: 85px;
+    }
+    .tamil1 h4,.karnataka1 h4,.kerala1 h4,.andhra1 h4,#bride span{
+        font-size: 45px;
+    }
+    .tamil1 p,.karnataka1 p,.kerala1 p,.andhra1 p ,#bride p{
+        font-size: 20px;
+        padding: 25px 0;
+
+    }
+    .tamil1{
+        padding: 100px 50px;
+    }
+     #karnataka,#kerala,#andhra,#kerala{
+        padding-top: 0px;
+    } 
+
+    .pegination1{
+        padding: 0 450px;
+    }
+   
+}
+

@@ -1,0 +1,134 @@
+
+
+.search{
+    position: relative;
+    padding-right: 70px;
+}
+.search1{
+    position: absolute;
+    right: 100px;
+    top: 10px;
+    font-size: 25px;
+    color: #c92A42;
+}
+#legacy span,.story2 span{
+    font-size: 25px;
+    letter-spacing: 3px;
+}
+#legacy h2,.story2 h2{
+    font-size: 40px;
+}
+
+.num{
+    background-color: rgb(255, 248, 244);
+    display: flex;
+    justify-content: center;
+    gap: 1%;
+    align-items: center;
+    height: 300px;
+    padding: 0 90px;
+}
+
+
+.number1{
+    background-color:  #c92a42;
+    height: 250px;
+    border-radius: 100%;
+    width: 250px;
+     padding: 50px 
+}
+#number{
+    display: none;
+}
+
+.award1 .card{
+    border: none;
+}
+.achiv{
+    height: 200px;
+}
+.achiv1{
+    height: 150px; 
+}
+.board1{
+    padding: 0 80px;
+}
+.board2{
+    padding: 20px 50px;
+}
+.alu{
+    background-color: burlywood;
+}
+#footer{
+    background-color: rgb(192, 140, 53)
+ }
+ .foot{
+    height: 40px;
+ }
+ .pegination1{
+    background-color: rgb(255, 248, 244);
+ }
+
+
+@media only screen and (min-width:768px){
+
+    #legacy span,.story2 span{
+        font-size: 30px;
+        letter-spacing: 3px;
+    }
+    #legacy h2,.story2 h2{
+        font-size: 47px;
+    }
+    #legacy p,.story2 p{
+        font-size: 18px;
+    }
+    .pegination1{
+        padding: 0 250px;
+    }
+   
+}
+
+@media only screen and (min-width:1200px){
+    #legacy span,.story2 span,#award span{
+        font-size: 45px;
+        letter-spacing: 3px;
+    }
+    #legacy h2,.story2 h2,#award h2{
+        font-size: 72px;
+    }
+    #legacy p,.story2 p{
+        font-size: 18px;
+    }
+    #number{
+        display: block;
+    }
+    .story2{
+        padding: 0 40px;
+    }
+    .story1{
+        /* align-self: stretch; */
+        background-color: rgb(254, 189, 44);
+         display: flex;
+        flex-direction: column;
+        justify-content: flex-start;
+        min-height: 400px;
+        width: 41.6667%; 
+        box-shadow:1px 5px 5px #c92a42;
+    }
+    .board1 h2{
+        font-size: 72px;
+        letter-spacing: 6px;
+    }
+    .board1{
+        padding: 0 80px;
+    }
+    .board2{
+        padding: 20px 50px;
+    }
+    .alu{
+        background-color: burlywood;
+    }
+    .pegination1{
+        padding: 0 450px;
+    }
+}

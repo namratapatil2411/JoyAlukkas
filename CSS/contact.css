@@ -1,0 +1,36 @@
+.search{
+    position: relative;
+    padding-right: 70px;
+}
+.search1{
+    position: absolute;
+    right: 100px;
+    top: 10px;
+    font-size: 25px;
+    color: #c92A42;
+}
+
+#footer{
+    background-color: rgb(192, 140, 53)
+ }
+ .foot{
+    height: 40px;
+ }
+.contact1{
+    padding: 20px 80px;
+}
+.pegination1{
+    background-color: rgb(255, 248, 244);
+}
+@media only screen and (min-width:768px){
+    .pegination1{
+        padding: 0 250px;
+    }
+   
+}
+@media only screen and (min-width:1200px){
+    .pegination1{
+        padding: 0 450px;
+    }
+   
+}

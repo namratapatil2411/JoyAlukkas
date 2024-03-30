@@ -37,9 +37,11 @@ About Page-
 ![Screenshot 2024-03-30 215614](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/640e70e5-38e3-4529-b2e1-bfbcbaae16f5)
 ![Screenshot 2024-03-30 215658](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/3f6ef7b0-8ca6-4266-b67b-8c50215fa276)
 ![Screenshot 2024-03-30 215759](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/62d0ce8a-1c3f-4c60-a095-9895ca136f2b)
+![Screenshot 2024-03-30 220002](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/9d71b62c-fcd6-464b-8ed3-0a60f6a238d6)
 
 Contact Page-
-![Screenshot 2024-03-30 220002](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/9d71b62c-fcd6-464b-8ed3-0a60f6a238d6)
+![Screenshot 2024-03-30 215931](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/cd2253f6-8897-4c21-a981-df44645efa44)
+
 ![Screenshot 2024-03-30 220002](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/dad6c8d7-6c2f-4226-b678-7f56230a0e61)
 
 

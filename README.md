@@ -32,6 +32,8 @@ Wedding Page-
 ![Screenshot 2024-03-30 215022](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/ae8e9fe2-37f2-476c-b918-c6f52260aedd)
 ![Screenshot 2024-03-30 215132](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/a5991393-201f-4af3-b6bf-c3ff7763f081)
 ![Screenshot 2024-03-30 215301](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/2f21d3e9-781c-476b-8140-4b54762f1162)
+![Screenshot 2024-03-30 215209](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/d20a1e6b-349f-4f19-8b6a-5b7d675ccce5)
+
 ![Screenshot 2024-03-30 215346](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/6b8d02bc-d03d-4963-afa8-25813f44713c)
 
 ![Screenshot 2024-03-30 215411](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/71abe016-9cc3-4c19-b62f-0dea5b40d121)

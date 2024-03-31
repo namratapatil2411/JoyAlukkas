@@ -22,14 +22,17 @@ Home page-
 ![Screenshot 2024-03-30 214038](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/f200aead-ce54-4948-ab2a-97d18be35918)
 ![Screenshot 2024-03-30 214148](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/6d09b037-8fc5-4810-a224-ab8c57ef57e2)
 ![Screenshot 2024-03-30 214227](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/37ebaaec-307b-446a-9630-4f883410bfaf)
-![Screenshot 2024-03-30 214707](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/b155f63b-242e-497c-88de-c82c7a84acc8)
+
 
 ![Screenshot 2024-03-30 214610](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/41ce36a6-a70b-4a47-81ae-b9cf14c9547a)
+![Screenshot 2024-03-30 214707](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/b155f63b-242e-497c-88de-c82c7a84acc8)
 
 Wedding Page-
-![Screenshot 2024-03-30 215132](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/a5991393-201f-4af3-b6bf-c3ff7763f081)
+
 ![Screenshot 2024-03-30 215022](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/ae8e9fe2-37f2-476c-b918-c6f52260aedd)
+![Screenshot 2024-03-30 215132](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/a5991393-201f-4af3-b6bf-c3ff7763f081)
 ![Screenshot 2024-03-30 215301](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/2f21d3e9-781c-476b-8140-4b54762f1162)
+![Screenshot 2024-03-30 215346](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/6b8d02bc-d03d-4963-afa8-25813f44713c)
 
 ![Screenshot 2024-03-30 215411](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/71abe016-9cc3-4c19-b62f-0dea5b40d121)
 ![Screenshot 2024-03-30 215535](https://github.com/namratapatil2411/JoyAlukkas/assets/142895142/9553dd34-3478-40b4-9c27-00289859fe4e)
